@@ -1,0 +1,6 @@
+framework module Pods_refreshViewApp {
+  umbrella header "Pods-refreshViewApp-umbrella.h"
+
+  export *
+  module * { export * }
+}

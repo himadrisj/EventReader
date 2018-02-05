@@ -11,6 +11,6 @@
 #endif
 
 
-FOUNDATION_EXPORT double Pods_EventReaderVersionNumber;
-FOUNDATION_EXPORT const unsigned char Pods_EventReaderVersionString[];
+FOUNDATION_EXPORT double Pods_refreshViewAppVersionNumber;
+FOUNDATION_EXPORT const unsigned char Pods_refreshViewAppVersionString[];
 

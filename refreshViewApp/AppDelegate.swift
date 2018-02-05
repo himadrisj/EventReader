@@ -1,9 +1,9 @@
 //
 //  AppDelegate.swift
-//  EventReader
+//  refreshViewApp
 //
-//  Created by Himadri Sekhar Jyoti on 04/02/18.
-//  Copyright © 2018 Himadri Jyoti. All rights reserved.
+//  Created by Himadri Jyoti on 05/02/17.
+//  Copyright © 2017 Himadri. All rights reserved.
 //
 
 import UIKit
